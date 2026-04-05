@@ -41,12 +41,12 @@ The UI dynamically updates to reflect different states such as listening, typing
 
 ### 🏠 Home Screen
 
-![Home](images/homepage.png)
+![Home](image/homepage.png)
 
 ### 💬 Chat Screen
 
-![Chat](images/chat.png)
+![Chat](image/chat.png)
 
 ### 🎤 Voice Listening State
 
-![Voice](images/listening_state.png)
+![Voice](image/listening_state.png)
